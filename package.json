@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "scripts": {
+    "create-pair": "node utils/create-pair.js",
+    "check-balance": "node utils/check-balance.js",
+    "check-recipient-balance": "node utils/check-recipient-balance.js",
+    "send-transaction": "node utils/send-transaction.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
