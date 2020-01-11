@@ -1,0 +1,14 @@
+{
+  "name": "stellar_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0",
+    "stellar-sdk": "^3.3.0"
+  }
+}
